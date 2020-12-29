@@ -1,0 +1,23 @@
+form {
+  padding: 40px;
+  width: 60%;
+}
+
+form input[type='text'] {
+  width: 80%;
+  height: 40px;
+  font-size: 20px;
+  border-width: 0 0 1px 0;
+}
+
+form input[type='text']::-webkit-input-placeholder {
+  font-size: 20px;
+}
+
+form input[type='submit'] {
+  font-size: 20px;
+  padding: 10px 12px;
+  background-color: #8ce0af;
+  border: none;
+}
+/*# sourceMappingURL=main.css.map */
